@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-#testing the addition program
+#testing the addition program # This is a test commit
 def add(a, b):
     return a + b
 
